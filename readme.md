@@ -4,9 +4,9 @@
 - **Event Planner**
 
 ## Team Members & Roles
-- **Denny Li** [del226@lehigh.edu](mailto:del226@lehigh.edu) Database / Auth / Cards
-- **Truc Linh Ho** [tth227@lehigh.edu](mailto:tth227@lehigh.edu) API Integration
-- **Neirah Ho** [neh226@lehigh.edu](mailto:neh226@lehigh.edu) Frontend/UI
+- **Denny Li** [del226@lehigh.edu](mailto:del226@lehigh.edu) Authorization & Cards
+- **Truc Linh Ho** [tth227@lehigh.edu](mailto:tth227@lehigh.edu) Database & API Integration
+- **Neirah Ho** [neh226@lehigh.edu](mailto:neh226@lehigh.edu) Frontend & UI
 
 ## Application Functionality
 - Users can register, log in, and stay signed in with a local session.
